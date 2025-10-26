@@ -1,0 +1,15 @@
+C:\code\csharp\rpsgui\bin\Debug\net9.0-windows\RPSGUI.exe
+C:\code\csharp\rpsgui\bin\Debug\net9.0-windows\RPSGUI.deps.json
+C:\code\csharp\rpsgui\bin\Debug\net9.0-windows\RPSGUI.runtimeconfig.json
+C:\code\csharp\rpsgui\bin\Debug\net9.0-windows\RPSGUI.dll
+C:\code\csharp\rpsgui\bin\Debug\net9.0-windows\RPSGUI.pdb
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.AssemblyInfoInputs.cache
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.AssemblyInfo.cs
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.csproj.CoreCompileInputs.cache
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.sourcelink.json
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.dll
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\refint\RPSGUI.dll
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.pdb
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\RPSGUI.genruntimeconfig.cache
+C:\code\csharp\rpsgui\obj\Debug\net9.0-windows\ref\RPSGUI.dll
